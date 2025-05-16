@@ -1,5 +1,5 @@
-
-> Open this page at [https://1emilis1.github.io/pdu/](https://1emilis1.github.io/pdu/)
+# Pro Destruction Utility for Minecraft Education Edition.
+use commands like: /tell @s !cheats.
 
 ## Use as Extension
 
